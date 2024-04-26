@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#canvas-holder {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+canvas {
+    border: 8px solid #fff; 
+    display: block; 
+}
